@@ -1,14 +1,23 @@
- 👋 Hi, 
-# I’m Samrath Sudesh Acharya
+ 👋 Hi, I’m Samrath Sudesh Acharya<br/>
+ <br/>
+ <a href="https://www.instagram.com/samrath.s.acharya/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/samrath-sudesh-acharya-4949a6204/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="samrathsacharya@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br/>
+ 
+ ## I am Student,Programmer who loves tech
+ - 👀 I’m interested in anything and everything
+- 🌱 I’m currently learning Php and MySQL
+- 💞️ I’m looking to collaborate on C++
+#
+[![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)
+
+[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)
 
 
 ### Connect With Me    
-[![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/git-badges)](https://badges.pufler.dev)
-
-
 
 <a href="https://www.instagram.com/samrath.s.acharya/"><img alt="Instagram" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" /></a><a href="https://www.linkedin.com/in/samrath-sudesh-acharya-4949a6204/"><img alt="Linkedin" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>   
 <br/>
+
 
 ### I Work with
 
@@ -23,12 +32,10 @@
 <img alt="Javascript" align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/javascript.png"/> <br/>
 <br/>
 
-[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)
 
 
-- 👀 I’m interested in anything and everything
-- 🌱 I’m currently learning Php and MySQL
-- 💞️ I’m looking to collaborate on C++
+
+
 
 
 <!---
