@@ -3,7 +3,9 @@
 
 
 ### Connect With Me    
-[!vistors](https://visitor-badge.glitch.me/badge?page_id=samrath-sudesh-acharya.visitor-badge.issue.1)
+[![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/git-badges)](https://badges.pufler.dev)
+
+
 
 <a href="https://www.instagram.com/samrath.s.acharya/"><img alt="Instagram" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" /></a><a href="https://www.linkedin.com/in/samrath-sudesh-acharya-4949a6204/"><img alt="Linkedin" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>   
 <br/>
