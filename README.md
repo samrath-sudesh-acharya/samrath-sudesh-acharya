@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning Php and MySQL
 - 💞️ I’m looking to collaborate on C++
 
----
+***
+
+[![Spotify](https://samrath-sudesh-acharya.vercel.app/api/spotify)](https://open.spotify.com/user/samrath-sudesh-acharya)
 
 [![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)
