@@ -6,12 +6,19 @@
  - 👀 I’m interested in anything and everything
 - 🌱 I’m currently learning Php and MySQL
 - 💞️ I’m looking to collaborate on C++
-#
+
+---
+
 [![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)
 
 [![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
 
 ### Connect With Me    
 
