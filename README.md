@@ -9,7 +9,7 @@
 
 ***
 
-[![Spotify](https://samrath-sudesh-acharya.vercel.app/api/spotify)](https://open.spotify.com/user/samrath-sudesh-acharya)
+[![Spotify](https://novatorem-samrath-sudesh-acharya.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-samrath-sudesh-acharya)
 
 [![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)
