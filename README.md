@@ -19,6 +19,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#55](https://github.com/kti/python-netfilterqueue/issues/55) in [kti/python-netfilterqueue](https://github.com/kti/python-netfilterqueue)
+2. 🗣 Commented on [#249](https://github.com/LionSec/xerosploit/issues/249) in [LionSec/xerosploit](https://github.com/LionSec/xerosploit)
+<!--END_SECTION:activity-->
 
 ### Connect With Me    
 
