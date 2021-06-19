@@ -12,12 +12,11 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-   <!--START_SECTION:waka-->
-   <!--END_SECTION:waka--> 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrath-sudesh-acharya)](https://github.com/samrath-sudesh-acharya/github-readme-stats)
   </td>
   <td width="50%">
 
-<br><p align="center">[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)
+<br><p align="center">[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)
    [![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)</p>
   </td>
