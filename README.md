@@ -13,7 +13,7 @@
   <tr>
   <td width="30%" height="20%">
    
-   &nbsp; <br> <p align="center">![Top Langs](https://github-top-lang.vercel.app/api/top-langs/?username=samrath-sudesh-acharya&langs_count=8)<br/><br/>
+   &nbsp; <br> <p align="center">![Top Langs](https://github-top-lang.vercel.app/api/top-langs/?username=samrath-sudesh-acharya&langs_count=10)<br/><br/>
     [![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)</p>
  </td>
@@ -25,7 +25,7 @@
   </table>
  
 [![Samrath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrath)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samrath-sudesh-acharya&repo=Mac-Changer&show_owner=1&)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samrath-sudesh-acharya&repo=Mac-Changer&show_owner=0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
