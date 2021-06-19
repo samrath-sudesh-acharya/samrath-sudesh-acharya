@@ -25,7 +25,7 @@
   </table>
  
 [![Samrath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrath)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=samrath-sudesh-acharya)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samrath-sudesh-acharya&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="https://github.com/samrath-sudesh-acharya/github-readme-stats">
