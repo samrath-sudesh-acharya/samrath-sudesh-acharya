@@ -9,17 +9,30 @@
 
 ***
 
-[![Spotify](https://novatorem-samrath-sudesh-acharya.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-samrath-sudesh-acharya)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">[![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)
 
-[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)
+[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)</p>
+  </td>
+  </table>
+
+
 
 ---
 
 <details>
-<summmary>:zap: Recent Activity</summary>
+<summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55](https://github.com/kti/python-netfilterqueue/issues/55) in [kti/python-netfilterqueue](https://github.com/kti/python-netfilterqueue)
