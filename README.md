@@ -20,10 +20,9 @@
   </td>
   <td width="50%">
 
-<br><p align="center">[![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)
-
-[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)</p>
+<br><p align="center">[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)
+   [![Visits Badge](https://badges.pufler.dev/visits/samrath-sudesh-acharya/samrath-sudesh-acharya)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/samrath-sudesh-acharya)](https://badges.pufler.dev)</p>
   </td>
   </table>
 
