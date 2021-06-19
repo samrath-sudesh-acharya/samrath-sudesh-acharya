@@ -25,7 +25,7 @@
   </table>
  
 [![Samrath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrath)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samrath-sudesh-acharya&repo=Mac-Changer)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samrath-sudesh-acharya&repo=Mac-Changer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
