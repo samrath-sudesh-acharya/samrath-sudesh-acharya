@@ -25,9 +25,10 @@
   </table>
  
 [![Samrath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samrath)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=70&center=true&vCenter=true&width=200&height=100&lines=I;love;to;make;and;break;stuff)](https://git.io/typing-svg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13F7DE&size=50&center=true&vCenter=true&width=300&height=150&lines=%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;(%E2%97%95%E2%80%BF%E2%97%95%E2%9C%BF);(%C2%AC%E2%80%BF%C2%AC);(%E3%81%A5%EF%BF%A3+%C2%B3%EF%BF%A3)%E3%81%A5;%E0%B2%A0%E2%95%AD%E2%95%AE%E0%B2%A0;%E2%99%A5%E2%80%BF%E2%99%A5;%E3%83%BE(%E2%8C%90%E2%96%A0_%E2%96%A0)%E3%83%8E%E2%99%AA;%5C+(%E2%80%A2%E2%97%A1%E2%80%A2)+%2F;%CB%99%E2%80%86%CD%9C%CA%9F%CB%99;%C2%AF%5C(%C2%B0_o)%2F%C2%AF;%C2%AC_%C2%AC;%C6%AA(%CB%98%E2%8C%A3%CB%98)%CA%83;(%C2%B0%E3%83%AD%C2%B0)%E2%98%9D;(+%CD%A1%E2%97%93%E2%80%AF%CD%9C%CA%96+%CD%A1%E2%97%93);%F0%9F%91%86;%F0%9F%91%88;%F0%9F%91%87;%F0%9F%91%80;%F0%9F%98%81)](https://git.io/typing-svg)
+   <a href="https://github.com/samrath-sudesh-acharya/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=samrath-sudesh-acharya&repo=Mac-Changer" />
-</a>
+   </a>
 
 
 ---
