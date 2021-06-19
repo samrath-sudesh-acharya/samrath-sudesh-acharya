@@ -12,12 +12,9 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-      
-&nbsp; <br> <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-  </td>
+     <!--START_SECTION:waka-->
+     <!--END_SECTION:waka-->
+</td>
   <td width="50%">
 
 <br><p align="center">[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)
