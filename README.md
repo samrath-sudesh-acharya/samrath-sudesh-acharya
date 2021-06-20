@@ -35,8 +35,8 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/kti/python-netfilterqueue/issues/55) in [kti/python-netfilterqueue](https://github.com/kti/python-netfilterqueue)
-2. 🗣 Commented on [#249](https://github.com/LionSec/xerosploit/issues/249) in [LionSec/xerosploit](https://github.com/LionSec/xerosploit)
+1. 🗣 Commented on [#331](https://github.com/opensourcedesign/opensourcedesign.github.io/issues/331) in [opensourcedesign/opensourcedesign.github.io](https://github.com/opensourcedesign/opensourcedesign.github.io)
+2. 🗣 Commented on [#55](https://github.com/kti/python-netfilterqueue/issues/55) in [kti/python-netfilterqueue](https://github.com/kti/python-netfilterqueue)
 <!--END_SECTION:activity-->
  </details>
  
