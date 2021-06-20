@@ -35,8 +35,8 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#331](https://github.com/opensourcedesign/opensourcedesign.github.io/issues/331) in [opensourcedesign/opensourcedesign.github.io](https://github.com/opensourcedesign/opensourcedesign.github.io)
-2. 🗣 Commented on [#55](https://github.com/kti/python-netfilterqueue/issues/55) in [kti/python-netfilterqueue](https://github.com/kti/python-netfilterqueue)
+1. 💪 Opened PR [#332](https://github.com/opensourcedesign/opensourcedesign.github.io/pull/332) in [opensourcedesign/opensourcedesign.github.io](https://github.com/opensourcedesign/opensourcedesign.github.io)
+2. 🎉 Merged PR [#1](https://github.com/samrath-sudesh-acharya/opensourcedesign.github.io/pull/1) in [samrath-sudesh-acharya/opensourcedesign.github.io](https://github.com/samrath-sudesh-acharya/opensourcedesign.github.io)
 <!--END_SECTION:activity-->
  </details>
  
