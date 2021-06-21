@@ -61,6 +61,9 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Bash     13 mins         ████████████████████████▒   97.63 % 
+```
 <!--END_SECTION:waka-->
 
 
