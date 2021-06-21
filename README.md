@@ -1,8 +1,9 @@
- 👋 Hi, I’m Samrath Sudesh Acharya<br/>
+ <img align="right" src="https://user-images.githubusercontent.com/76547134/122723606-c9efed80-d290-11eb-9ed8-ecbf5eeba812.gif">
+  👋 Hi, I’m Samrath Sudesh Acharya<br/>
  <br/>
  <a href="https://www.instagram.com/samrath.s.acharya/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/samrath-sudesh-acharya-4949a6204/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="samrathsacharya@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br/>
  
- ## I am Student,Programmer who loves tech
+ ### I am Student,Programmer who loves tech
  - 👀 I’m interested in anything and everything
 - 🌱 I’m currently learning Php and MySQL
 - 💞️ I’m looking to collaborate on C++
