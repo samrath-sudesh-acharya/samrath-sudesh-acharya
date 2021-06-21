@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning Php and MySQL
 - 💞️ I’m looking to collaborate on C++
 
-***
+
+## My workflow
 
 <table width="100%" borderradius="3px solid"> 
   <tr>
