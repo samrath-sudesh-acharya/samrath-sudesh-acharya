@@ -49,7 +49,7 @@ Bash     13 mins         ██████████████████�
  
 ### Connect With Me    
 
-<a href="https://www.instagram.com/samrath.s.acharya/"><img alt="Instagram" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" /></a><a href="https://www.linkedin.com/in/samrath-sudesh-acharya-4949a6204/"><img alt="Linkedin" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>   
+<a href="https://www.instagram.com/samrath.s.acharya/"><img alt="Instagram" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" /></a><a href="https://www.linkedin.com/in/samrath-sudesh-acharya/"><img alt="Linkedin" align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>   
 <br/>
 
 
