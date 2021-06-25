@@ -42,8 +42,8 @@ Bash     13 mins         ██████████████████�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/samrath-sudesh-acharya/opensourcedesign.github.io/pull/2) in [samrath-sudesh-acharya/opensourcedesign.github.io](https://github.com/samrath-sudesh-acharya/opensourcedesign.github.io)
-2. 💪 Opened PR [#2](https://github.com/samrath-sudesh-acharya/opensourcedesign.github.io/pull/2) in [samrath-sudesh-acharya/opensourcedesign.github.io](https://github.com/samrath-sudesh-acharya/opensourcedesign.github.io)
+1. 🗣 Commented on [#332](https://github.com/opensourcedesign/opensourcedesign.github.io/issues/332) in [opensourcedesign/opensourcedesign.github.io](https://github.com/opensourcedesign/opensourcedesign.github.io)
+2. 🎉 Merged PR [#2](https://github.com/samrath-sudesh-acharya/opensourcedesign.github.io/pull/2) in [samrath-sudesh-acharya/opensourcedesign.github.io](https://github.com/samrath-sudesh-acharya/opensourcedesign.github.io)
 <!--END_SECTION:activity-->
  </details>
  
