@@ -42,8 +42,8 @@ Python   1 min           ██████████████████�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/samrath-sudesh-acharya/demo/pull/1) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
-2. 🗣 Commented on [#332](https://github.com/opensourcedesign/opensourcedesign.github.io/issues/332) in [opensourcedesign/opensourcedesign.github.io](https://github.com/opensourcedesign/opensourcedesign.github.io)
+1. 🎉 Merged PR [#2](https://github.com/samrath-sudesh-acharya/demo/pull/2) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
+2. 💪 Opened PR [#2](https://github.com/samrath-sudesh-acharya/demo/pull/2) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
 <!--END_SECTION:activity-->
  </details>
  
