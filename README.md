@@ -42,8 +42,8 @@ Python   1 min           ██████████████████�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/samrath-sudesh-acharya/demo/pull/2) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
-2. 💪 Opened PR [#2](https://github.com/samrath-sudesh-acharya/demo/pull/2) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
+1. 🎉 Merged PR [#3](https://github.com/samrath-sudesh-acharya/demo/pull/3) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
+2. 🗣 Commented on [#3](https://github.com/samrath-sudesh-acharya/demo/issues/3) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
 <!--END_SECTION:activity-->
  </details>
  
