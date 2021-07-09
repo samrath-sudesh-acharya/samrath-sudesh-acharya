@@ -46,8 +46,8 @@ C++          10 mins         ▓░░░░░░░░░░░░░░░░
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/samrath-sudesh-acharya/demo-idec/pull/1) in [samrath-sudesh-acharya/demo-idec](https://github.com/samrath-sudesh-acharya/demo-idec)
-2. 💪 Opened PR [#1](https://github.com/samrath-sudesh-acharya/demo-idec/pull/1) in [samrath-sudesh-acharya/demo-idec](https://github.com/samrath-sudesh-acharya/demo-idec)
+1. 🎉 Merged PR [#9](https://github.com/samrath-sudesh-acharya/demo/pull/9) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
+2. 💪 Opened PR [#9](https://github.com/samrath-sudesh-acharya/demo/pull/9) in [samrath-sudesh-acharya/demo](https://github.com/samrath-sudesh-acharya/demo)
 <!--END_SECTION:activity-->
  </details>
  
