@@ -28,11 +28,11 @@
  
 <!--START_SECTION:waka-->
 ```text
-Dart         2 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Solidity     2 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.07 % 
-JavaScript   1 hr 56 mins    █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Markdown     1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.56 % 
-HTML         1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Dart         8 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.14 % 
+Solidity     2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Markdown     1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+JavaScript   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+HTML         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 <!--END_SECTION:waka-->
 
