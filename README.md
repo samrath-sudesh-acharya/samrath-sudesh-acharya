@@ -46,8 +46,8 @@ HTML         1 hr 2 mins     █▓░░░░░░░░░░░░░░░
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nischa1/Dummy/pull/1) in [nischa1/Dummy](https://github.com/nischa1/Dummy)
-2. 💪 Opened PR [#1](https://github.com/nischa1/Dummy/pull/1) in [nischa1/Dummy](https://github.com/nischa1/Dummy)
+1. ❌ Closed PR [#2](https://github.com/samrath-sudesh-acharya/Android-Calculator/pull/2) in [samrath-sudesh-acharya/Android-Calculator](https://github.com/samrath-sudesh-acharya/Android-Calculator)
+2. 💪 Opened PR [#2](https://github.com/samrath-sudesh-acharya/Android-Calculator/pull/2) in [samrath-sudesh-acharya/Android-Calculator](https://github.com/samrath-sudesh-acharya/Android-Calculator)
 <!--END_SECTION:activity-->
  </details>
  
