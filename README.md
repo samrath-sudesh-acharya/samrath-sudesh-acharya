@@ -46,8 +46,8 @@ YAML         1 hr 10 mins    █▒░░░░░░░░░░░░░░░
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/nischa1/testinggit/pull/1) in [nischa1/testinggit](https://github.com/nischa1/testinggit)
-2. 💪 Opened PR [#1](https://github.com/nischa1/testinggit/pull/1) in [nischa1/testinggit](https://github.com/nischa1/testinggit)
+1. 🗣 Commented on [#113](https://github.com/torquem-ch/silkrpc/issues/113) in [torquem-ch/silkrpc](https://github.com/torquem-ch/silkrpc)
+2. ❌ Closed PR [#1](https://github.com/nischa1/testinggit/pull/1) in [nischa1/testinggit](https://github.com/nischa1/testinggit)
 <!--END_SECTION:activity-->
  </details>
  
