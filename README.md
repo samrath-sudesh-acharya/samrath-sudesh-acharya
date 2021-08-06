@@ -48,8 +48,8 @@ YAML       17 mins         █▓░░░░░░░░░░░░░░░�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/torquem-ch/silkrpc/issues/113) in [torquem-ch/silkrpc](https://github.com/torquem-ch/silkrpc)
-2. ❌ Closed PR [#1](https://github.com/nischa1/testinggit/pull/1) in [nischa1/testinggit](https://github.com/nischa1/testinggit)
+1. 🎉 Merged PR [#1](https://github.com/samrath-sudesh-acharya/Py-Calculator/pull/1) in [samrath-sudesh-acharya/Py-Calculator](https://github.com/samrath-sudesh-acharya/Py-Calculator)
+2. 💪 Opened PR [#1](https://github.com/samrath-sudesh-acharya/Py-Calculator/pull/1) in [samrath-sudesh-acharya/Py-Calculator](https://github.com/samrath-sudesh-acharya/Py-Calculator)
 <!--END_SECTION:activity-->
  </details>
  
