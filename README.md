@@ -44,8 +44,8 @@ Dart   2 mins          ███████████████████
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/samrath-sudesh-acharya/demo-hostel/pull/2) in [samrath-sudesh-acharya/demo-hostel](https://github.com/samrath-sudesh-acharya/demo-hostel)
-2. 🎉 Merged PR [#1](https://github.com/samrath-sudesh-acharya/demo-hostel/pull/1) in [samrath-sudesh-acharya/demo-hostel](https://github.com/samrath-sudesh-acharya/demo-hostel)
+1. 🎉 Merged PR [#3](https://github.com/samrath-sudesh-acharya/demo-hostel/pull/3) in [samrath-sudesh-acharya/demo-hostel](https://github.com/samrath-sudesh-acharya/demo-hostel)
+2. 🗣 Commented on [#3](https://github.com/samrath-sudesh-acharya/demo-hostel/issues/3) in [samrath-sudesh-acharya/demo-hostel](https://github.com/samrath-sudesh-acharya/demo-hostel)
 <!--END_SECTION:activity-->
  </details>
  
