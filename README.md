@@ -45,7 +45,7 @@ No Activity tracked this Week
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#422](https://github.com/medusajs/medusa/issues/422) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 💪 Opened PR [#9](https://github.com/Raushan710/teaching_1/pull/9) in [Raushan710/teaching_1](https://github.com/Raushan710/teaching_1)
+2. 🗣 Commented on [#422](https://github.com/medusajs/medusa/issues/422) in [medusajs/medusa](https://github.com/medusajs/medusa)
 <!--END_SECTION:activity-->
  </details>
  
