@@ -45,8 +45,8 @@ Other        1 min           ██▓░░░░░░░░░░░░░░
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#449](https://github.com/medusajs/medusa/pull/449) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 💪 Opened PR [#449](https://github.com/medusajs/medusa/pull/449) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#1](https://github.com/Amiyanshu-web/counter_redux/issues/1) in [Amiyanshu-web/counter_redux](https://github.com/Amiyanshu-web/counter_redux)
+2. 🗣 Commented on [#9](https://github.com/adithyapaib/portfolio-template/issues/9) in [adithyapaib/portfolio-template](https://github.com/adithyapaib/portfolio-template)
 <!--END_SECTION:activity-->
  </details>
  
