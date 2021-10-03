@@ -28,7 +28,8 @@
  
 <!--START_SECTION:waka-->
 ```text
-
+JSON         16 mins         ████████████████████▓░░░░   82.08 % 
+Other        1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 ```
 <!--END_SECTION:waka-->
 
