@@ -28,7 +28,11 @@
  
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML    25 mins         ███████████████░░░░░░░░░░   59.87 % 
+Dart    6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+YAML    4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Swift   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Text    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 <!--END_SECTION:waka-->
 
