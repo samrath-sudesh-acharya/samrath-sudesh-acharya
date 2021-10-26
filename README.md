@@ -46,7 +46,7 @@ Python   16 mins         ████████▒░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/Webwiznitr/webwiz-portfolio/issues/10) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
-2. ❌ Reopened PR [#203](https://github.com/joeljsv/hacktober2021/pull/203) in [joeljsv/hacktober2021](https://github.com/joeljsv/hacktober2021)
+2. 🗣 Commented on [#10](https://github.com/Webwiznitr/webwiz-portfolio/issues/10) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
 <!--END_SECTION:activity-->
  </details>
  
