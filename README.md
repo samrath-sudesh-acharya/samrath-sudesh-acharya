@@ -45,8 +45,8 @@ Python   16 mins         ████████▒░░░░░░░░░�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Webwiznitr/webwiz-portfolio/issues/1) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
-2. 🗣 Commented on [#1](https://github.com/Webwiznitr/webwiz-portfolio/issues/1) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
+1. ❌ Closed PR [#9](https://github.com/Raushan710/teaching_1/pull/9) in [Raushan710/teaching_1](https://github.com/Raushan710/teaching_1)
+2. 🗣 Commented on [#10](https://github.com/Webwiznitr/webwiz-portfolio/issues/10) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
 <!--END_SECTION:activity-->
  </details>
  
