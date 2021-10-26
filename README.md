@@ -45,8 +45,8 @@ Python   16 mins         ████████▒░░░░░░░░░�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/adithyapaib/portfolio-template/pull/12) in [adithyapaib/portfolio-template](https://github.com/adithyapaib/portfolio-template)
-2. 🗣 Commented on [#1](https://github.com/Amiyanshu-web/counter_redux/issues/1) in [Amiyanshu-web/counter_redux](https://github.com/Amiyanshu-web/counter_redux)
+1. 🗣 Commented on [#1](https://github.com/Webwiznitr/webwiz-portfolio/issues/1) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
+2. 🗣 Commented on [#1](https://github.com/Webwiznitr/webwiz-portfolio/issues/1) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
 <!--END_SECTION:activity-->
  </details>
  
