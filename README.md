@@ -45,8 +45,8 @@ Python   16 mins         ████████▒░░░░░░░░░�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Webwiznitr/webwiz-portfolio/issues/10) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
-2. 🗣 Commented on [#10](https://github.com/Webwiznitr/webwiz-portfolio/issues/10) in [Webwiznitr/webwiz-portfolio](https://github.com/Webwiznitr/webwiz-portfolio)
+1. ❗️ Closed issue [#1](https://github.com/samrath-sudesh-acharya/Flutter-Calculator/issues/1) in [samrath-sudesh-acharya/Flutter-Calculator](https://github.com/samrath-sudesh-acharya/Flutter-Calculator)
+2. 🎉 Merged PR [#2](https://github.com/samrath-sudesh-acharya/Flutter-Calculator/pull/2) in [samrath-sudesh-acharya/Flutter-Calculator](https://github.com/samrath-sudesh-acharya/Flutter-Calculator)
 <!--END_SECTION:activity-->
  </details>
  
