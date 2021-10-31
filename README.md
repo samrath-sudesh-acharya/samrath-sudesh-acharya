@@ -48,8 +48,8 @@ Other    12 mins         █░░░░░░░░░░░░░░░░░�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/samrath-sudesh-acharya/Flutter-Calculator/issues/1) in [samrath-sudesh-acharya/Flutter-Calculator](https://github.com/samrath-sudesh-acharya/Flutter-Calculator)
-2. 🎉 Merged PR [#2](https://github.com/samrath-sudesh-acharya/Flutter-Calculator/pull/2) in [samrath-sudesh-acharya/Flutter-Calculator](https://github.com/samrath-sudesh-acharya/Flutter-Calculator)
+1. 🎉 Merged PR [#1](https://github.com/samrath-sudesh-acharya/HackOut/pull/1) in [samrath-sudesh-acharya/HackOut](https://github.com/samrath-sudesh-acharya/HackOut)
+2. 💪 Opened PR [#1](https://github.com/samrath-sudesh-acharya/HackOut/pull/1) in [samrath-sudesh-acharya/HackOut](https://github.com/samrath-sudesh-acharya/HackOut)
 <!--END_SECTION:activity-->
  </details>
  
