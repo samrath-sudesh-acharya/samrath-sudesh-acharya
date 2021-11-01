@@ -48,8 +48,8 @@ JSX      17 mins         ▓░░░░░░░░░░░░░░░░░�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/samrath-sudesh-acharya/HackOut/pull/1) in [samrath-sudesh-acharya/HackOut](https://github.com/samrath-sudesh-acharya/HackOut)
-2. 💪 Opened PR [#1](https://github.com/samrath-sudesh-acharya/HackOut/pull/1) in [samrath-sudesh-acharya/HackOut](https://github.com/samrath-sudesh-acharya/HackOut)
+1. ❗️ Opened issue [#2](https://github.com/samrath-sudesh-acharya/MedGo/issues/2) in [samrath-sudesh-acharya/MedGo](https://github.com/samrath-sudesh-acharya/MedGo)
+2. 🎉 Merged PR [#1](https://github.com/samrath-sudesh-acharya/HackOut/pull/1) in [samrath-sudesh-acharya/HackOut](https://github.com/samrath-sudesh-acharya/HackOut)
 <!--END_SECTION:activity-->
  </details>
  
