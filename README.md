@@ -46,8 +46,8 @@ Text     1 min           ▒░░░░░░░░░░░░░░░░░�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/samrath-sudesh-acharya/demo-demo/issues/1) in [samrath-sudesh-acharya/demo-demo](https://github.com/samrath-sudesh-acharya/demo-demo)
-2. ❗️ Opened issue [#2](https://github.com/samrath-sudesh-acharya/MedGo/issues/2) in [samrath-sudesh-acharya/MedGo](https://github.com/samrath-sudesh-acharya/MedGo)
+1. 🎉 Merged PR [#2](https://github.com/samrath-sudesh-acharya/demo-demo/pull/2) in [samrath-sudesh-acharya/demo-demo](https://github.com/samrath-sudesh-acharya/demo-demo)
+2. ❗️ Opened issue [#1](https://github.com/samrath-sudesh-acharya/demo-demo/issues/1) in [samrath-sudesh-acharya/demo-demo](https://github.com/samrath-sudesh-acharya/demo-demo)
 <!--END_SECTION:activity-->
  </details>
  
