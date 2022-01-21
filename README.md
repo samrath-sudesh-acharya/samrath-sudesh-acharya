@@ -5,7 +5,7 @@
  
  ### I am Student,Desginer,Programmer who loves tech
  - 👀 I’m interested in anything and everything
-- 🌱 I’m currently learning Php and MySQL
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on C++
 
 
@@ -21,7 +21,7 @@
  </td>
   <td width="50%" height="50%">
 
-<br><p align="center">[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=highcontrast)](https://github.com/samrath-sudesh-acharya/github-readme-stats)<p>
+<br><p align="center">[![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrath-sudesh-acharya&show_icons=true&theme=midnight-purple)](https://github.com/samrath-sudesh-acharya/github-readme-stats)<p>
   
   </td>
   </table>
