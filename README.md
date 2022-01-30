@@ -28,9 +28,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-C++    42 mins         ██████████░░░░░░░░░░░░░░░   40.18 % 
-CSS    41 mins         ██████████░░░░░░░░░░░░░░░   40.05 % 
-HTML   20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
