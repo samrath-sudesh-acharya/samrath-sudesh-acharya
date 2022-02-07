@@ -44,8 +44,8 @@ C      3 hrs 15 mins   ███████████████████
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/samrath-sudesh-acharya/JAVA-CALCULATOR/issues/3) in [samrath-sudesh-acharya/JAVA-CALCULATOR](https://github.com/samrath-sudesh-acharya/JAVA-CALCULATOR)
-2. ❗️ Opened issue [#2](https://github.com/samrath-sudesh-acharya/JAVA-CALCULATOR/issues/2) in [samrath-sudesh-acharya/JAVA-CALCULATOR](https://github.com/samrath-sudesh-acharya/JAVA-CALCULATOR)
+1. 🎉 Merged PR [#4](https://github.com/samrath-sudesh-acharya/JAVA-CALCULATOR/pull/4) in [samrath-sudesh-acharya/JAVA-CALCULATOR](https://github.com/samrath-sudesh-acharya/JAVA-CALCULATOR)
+2. ❗️ Opened issue [#3](https://github.com/samrath-sudesh-acharya/JAVA-CALCULATOR/issues/3) in [samrath-sudesh-acharya/JAVA-CALCULATOR](https://github.com/samrath-sudesh-acharya/JAVA-CALCULATOR)
 <!--END_SECTION:activity-->
  </details>
  
