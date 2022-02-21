@@ -44,8 +44,8 @@ C++   5 hrs 16 mins   ███████████████████�
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/hashirshoaeb/star_book/issues/246) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
-2. 💪 Opened PR [#247](https://github.com/hashirshoaeb/star_book/pull/247) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
+1. 🗣 Commented on [#193](https://github.com/hashirshoaeb/star_book/issues/193) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
+2. 🗣 Commented on [#248](https://github.com/hashirshoaeb/star_book/issues/248) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
 <!--END_SECTION:activity-->
  </details>
  
