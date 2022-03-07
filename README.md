@@ -50,8 +50,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#251](https://github.com/hashirshoaeb/star_book/pull/251) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
-2. 🗣 Commented on [#243](https://github.com/hashirshoaeb/star_book/issues/243) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
+1. 🗣 Commented on [#251](https://github.com/hashirshoaeb/star_book/issues/251) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
+2. 💪 Opened PR [#251](https://github.com/hashirshoaeb/star_book/pull/251) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
 <!--END_SECTION:activity-->
  </details>
  
