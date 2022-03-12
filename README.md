@@ -51,8 +51,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/hashirshoaeb/star_book/issues/251) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
-2. 💪 Opened PR [#251](https://github.com/hashirshoaeb/star_book/pull/251) in [hashirshoaeb/star_book](https://github.com/hashirshoaeb/star_book)
+1. 🎉 Merged PR [#1](https://github.com/samrath-sudesh-acharya/demo-demo-demo/pull/1) in [samrath-sudesh-acharya/demo-demo-demo](https://github.com/samrath-sudesh-acharya/demo-demo-demo)
+2. 💪 Opened PR [#1](https://github.com/samrath-sudesh-acharya/demo-demo-demo/pull/1) in [samrath-sudesh-acharya/demo-demo-demo](https://github.com/samrath-sudesh-acharya/demo-demo-demo)
 <!--END_SECTION:activity-->
  </details>
  
