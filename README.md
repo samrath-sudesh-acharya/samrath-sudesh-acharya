@@ -29,7 +29,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   21 mins         █████████████░░░░░░░░░░░░   52.20 %
+Python       19 mins         ████████████░░░░░░░░░░░░░   47.80 %
 ```
 
 <!--END_SECTION:waka-->
