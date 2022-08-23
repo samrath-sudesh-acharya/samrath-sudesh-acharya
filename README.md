@@ -3,7 +3,7 @@
  <br/>
 <!--  <a href="https://www.instagram.com/samrath.s.acharya/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/samrath-sudesh-acharya/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br/><br/> -->
  
- ### I am Desginer/Developer who loves tech
+ ### Desginer,Developer who loves tech
  - 👀 I’m interested in anything and everything
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on C++
