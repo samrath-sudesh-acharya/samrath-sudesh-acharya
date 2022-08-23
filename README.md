@@ -11,7 +11,7 @@
 
 # My workflow
 
-<table width="100%" borderradius="3px solid"> 
+<table width="100%"> 
   <tr>
   <td width="30%" height="20%">
    
