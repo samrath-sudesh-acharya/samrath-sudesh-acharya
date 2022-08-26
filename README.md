@@ -60,8 +60,9 @@ No activity tracked
 <img alt="React Native" align="left" src="https://img.icons8.com/color/32/000000/react-native.png"/>
 <img alt="Docker" align="left" src="https://img.icons8.com/fluency/32/000000/docker.png"/>
 <img alt="Flutter" align="left" height="32" width="32" src="https://img.icons8.com/color/50/000000/flutter.png"/> 
-<img alt="Dart" align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/dart.png"/> <br/>
-
+<img alt="Dart" align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/dart.png"/> 
+<img alt="Golang" align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/golang.png"/>
+<img alt="Kubernetes" align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
 <br/>
 
 
