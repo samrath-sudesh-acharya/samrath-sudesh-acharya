@@ -28,9 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart     28 mins         ██████████████████▓░░░░░░   74.62 %
-Python   8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
-YAML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
