@@ -28,9 +28,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   7 hrs 12 mins   █████████████████████████   99.85 %
+Python   6 hrs 50 mins   █████████████████████████   99.86 %
 INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
