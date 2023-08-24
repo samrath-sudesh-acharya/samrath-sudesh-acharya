@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on C++
 
-
 # My workflow
 
 <table width="100%"> 
